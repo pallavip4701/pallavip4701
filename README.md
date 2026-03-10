@@ -123,14 +123,6 @@ https://github.com/pallavip4701
 
 ---
 
-<p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=pallavip4701&style=for-the-badge&color=blueviolet"/>
-
-</p>
-
-<p align="center">
-
-⭐ Building dashboards that transform data into insights ⭐
 
 </p>
