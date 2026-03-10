@@ -1,19 +1,19 @@
-<h1 align="center">✨ Hi, I'm Pallavi Pawar ✨</h1>
-
-<h3 align="center">
-React Frontend Developer • Dashboard UI Engineer • Data Visualization Enthusiast
-</h3>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Pallavi%20Pawar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20Frontend%20Developer%20%7C%20Dashboard%20UI%20Engineer&descAlignY=55&descSize=20"/>
+</p>
 
 <p align="center">
-Building modern dashboards, scalable UI systems, and data-driven web applications.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=React+Frontend+Developer;Dashboard+UI+Engineer;Building+Data+Driven+Interfaces;Data+Visualization+Enthusiast"/>
+
 </p>
 
 ---
 
-# 🌟 About Me
+# ✦ About Me
 
-💻 React Frontend Developer with ~2 years experience  
-📊 Passionate about **dashboard interfaces & data visualization**  
+💻 React Frontend Developer with **~2 years experience**  
+📊 Passionate about **dashboard UI & data visualization**  
 🧠 MBA in **Business Analytics**  
 ⚡ Working on **enterprise asset monitoring dashboards**  
 📍 Pune, India  
@@ -22,25 +22,15 @@ Building modern dashboards, scalable UI systems, and data-driven web application
 
 # 🚀 Tech Stack
 
-### Frontend Development
+<p align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+<img src="https://skillicons.dev/icons?i=react,js,html,css,git,github,vscode,figma,python"/>
 
-### Development Tools
-
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
-![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma)
+</p>
 
 ### Data & Analytics
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
-![PowerBI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+SQL • Power BI • Python • Data Visualization
 
 ---
 
@@ -48,9 +38,9 @@ Building modern dashboards, scalable UI systems, and data-driven web application
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pallavip4701&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pallavip4701&show_icons=true&theme=tokyonight&border_radius=12"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavip4701&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavip4701&layout=compact&theme=tokyonight&border_radius=12"/>
 
 </p>
 
@@ -69,10 +59,14 @@ React • JavaScript • Chart.js • Responsive UI
 
 ### 📊 Mission Operations Analytics Dashboard
 
-Analytics platform monitoring mission lifecycle KPIs.
+Analytics dashboard monitoring **mission lifecycle KPIs**.
 
 Tools Used  
-SQL • Power BI • Python • Excel
+
+SQL  
+Power BI  
+Python  
+Excel  
 
 ---
 
@@ -80,14 +74,15 @@ SQL • Power BI • Python • Excel
 
 ### Associate Software Developer  
 Dynasoft Applied System Pvt Ltd — Pune  
+
 July 2023 – Present  
 
 Working on **DGAMS – Asset Tracking & Monitoring System**
 
-Key Contributions:
+Key Contributions
 
 • Built scalable **React dashboard components**  
-• Developed **role-based monitoring dashboards**  
+• Designed **role-based monitoring dashboards**  
 • Integrated **REST APIs for real-time asset data**  
 • Created **map-based asset monitoring interfaces**  
 • Implemented **geofencing visualization tools**  
@@ -99,19 +94,19 @@ Key Contributions:
 
 MBA – Business Analytics  
 Savitribai Phule Pune University  
-2025 | CGPA: 7.60  
+2025 | CGPA: **7.60**
 
 Bachelor of Engineering – Computer Science  
 Savitribai Phule Pune University  
-2023 | CGPA: 9.20  
+2023 | CGPA: **9.20**
 
 Diploma – Computer Engineering  
 Maharashtra State Board of Technical Education  
-2020 | 95.65%
+2020 | **95.65%**
 
 Secondary School Certificate (SSC)  
 Maharashtra State Board  
-2017 | 66%
+2017 | **66%**
 
 ---
 
@@ -120,14 +115,22 @@ Maharashtra State Board
 📧 Email  
 pallavip4701@gmail.com  
 
-🔗 LinkedIn  
+💼 LinkedIn  
 www.linkedin.com/in/pallavi-pawar-04154323b  
 
 💻 GitHub  
-https://github.com/pallavip4701  
+https://github.com/pallavip4701
 
 ---
 
 <p align="center">
-⭐ Building dashboards that transform data into insights
+
+<img src="https://komarev.com/ghpvc/?username=pallavip4701&style=for-the-badge&color=blueviolet"/>
+
+</p>
+
+<p align="center">
+
+⭐ Building dashboards that transform data into insights ⭐
+
 </p>
