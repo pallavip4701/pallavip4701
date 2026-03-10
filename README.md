@@ -68,8 +68,8 @@ I enjoy building **data-driven interfaces that transform operational data into m
 
 # 🌟 Featured Projects
 
-## 🚀 Operational Analytics Dashboard  
-**Live Demo:** [Operational Dashboard](https://operational-dashboard-sigma.vercel.app)
+## 🚀 Operational Analytics Dashboard     [![Live Demo](https://img.shields.io/badge/Live-Dashboard-blue?style=for-the-badge&logo=vercel)](https://operational-dashboard-sigma.vercel.app)
+
 Modern **React operational dashboard** designed to monitor system metrics, alerts, and asset performance.
 
 **Highlights**
@@ -158,7 +158,6 @@ www.linkedin.com/in/pallavi-pawar-04154323b
 github.com/pallavip4701  
 
 ## 🚀 Operational Analytics Dashboard
-**Live Demo:** [Operational Dashboard](https://operational-dashboard-sigma.vercel.app)
----
+[![Live Demo](https://img.shields.io/badge/Live-Dashboard-blue?style=for-the-badge&logo=vercel)](https://operational-dashboard-sigma.vercel.app)---
 
 
