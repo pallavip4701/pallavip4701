@@ -158,8 +158,4 @@ github.com/pallavip4701
 
 ---
 
-<p align="center">
 
-⭐ *Building dashboards that transform data into insights*
-
-</p>
