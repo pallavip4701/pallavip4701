@@ -85,7 +85,9 @@ Modern **React operational dashboard** designed to monitor system metrics, alert
 React • JavaScript • Chart.js • Tailwind CSS
 
 ---
+## 🚀 Operational Analytics Dashboard
 
+[![Live Demo](https://img.shields.io/badge/Live-Dashboard-blue?style=for-the-badge&logo=vercel)](https://operational-dashboard-sigma.vercel.app)
 ## 📊 Mission Operations Analytics Dashboard
 
 Analytics dashboard created to monitor **mission lifecycle performance and KPIs**.
