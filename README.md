@@ -1,11 +1,9 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Pallavi%20Pawar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20Frontend%20Developer%20%7C%20Dashboard%20UI%20Engineer&descAlignY=55&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Pallavi%20Pawar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20Frontend%20Developer%20%7C%20Dashboard%20UI%20Engineer&descAlignY=55&descSize=22"/>
 </p>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=React+Frontend+Developer;Dashboard+UI+Engineer;Building+Data+Driven+Interfaces;Data+Visualization+Enthusiast"/>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=React+Frontend+Developer;Dashboard+UI+Engineer;Data+Visualization+Enthusiast;Building+Modern+Analytics+Dashboards"/>
 </p>
 
 ---
@@ -23,9 +21,7 @@
 # 🚀 Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=react,js,html,css,git,github,vscode,figma,python"/>
-
 </p>
 
 ### Data & Analytics
@@ -41,6 +37,16 @@ SQL • Power BI • Python • Data Visualization
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pallavip4701&show_icons=true&theme=tokyonight&border_radius=12"/>
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavip4701&layout=compact&theme=tokyonight&border_radius=12"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=pallavip4701&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </p>
 
@@ -94,11 +100,11 @@ Key Contributions
 
 MBA – Business Analytics  
 Savitribai Phule Pune University  
-2025 | CGPA: **7.60**
+2025 | CGPA **7.60**
 
 Bachelor of Engineering – Computer Science  
 Savitribai Phule Pune University  
-2023 | CGPA: **9.20**
+2023 | CGPA **9.20**
 
 Diploma – Computer Engineering  
 Maharashtra State Board of Technical Education  
@@ -123,14 +129,14 @@ https://github.com/pallavip4701
 
 ---
 
+# 👀 Profile Views
+
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=pallavip4701&style=for-the-badge&color=blueviolet"/>
-
 </p>
 
+---
+
 <p align="center">
-
 ⭐ Building dashboards that transform data into insights ⭐
-
 </p>
