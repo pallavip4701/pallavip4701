@@ -1,32 +1,69 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Pallavi%20Pawar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20Frontend%20Developer%20%7C%20Dashboard%20UI%20Engineer&descAlignY=55&descSize=22"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:6dd5ed&height=250&section=header&text=Pallavi%20Pawar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=React%20Developer%20%7C%20Product%20%26%20Business%20Analytics&descAlignY=60"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=React+Frontend+Developer;Dashboard+UI+Engineer;Data+Visualization+Enthusiast;Building+Modern+Analytics+Dashboards"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&size=28&duration=3500&color=00E0FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Dashboard+Engineer;Product+%26+Business+Analytics+Enthusiast;Building+Data+Driven+Applications"/>
 </p>
 
 ---
 
-# ✦ About Me
+# 👋 Hello, I'm Pallavi
 
-💻 React Frontend Developer with **~2 years experience**  
-📊 Passionate about **dashboard UI & data visualization**  
-🧠 MBA in **Business Analytics**  
-⚡ Working on **enterprise asset monitoring dashboards**  
-📍 Pune, India  
+💻 **React Frontend Developer**  
+📊 **Product & Business Analytics Enthusiast**  
+📈 Passionate about **data-driven dashboards and analytics interfaces**
+
+I design **interactive dashboards, analytics systems, and modern web interfaces** that transform operational data into meaningful insights.
+
+Currently working on **enterprise asset monitoring dashboards** and building scalable UI architectures for real-time operational systems.
+
+📍 Pune, India
 
 ---
 
-# 🚀 Tech Stack
+# 🚀 What I Do
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,js,html,css,git,github,vscode,figma,python"/>
-</p>
+### Frontend Engineering
+• ReactJS Application Development  
+• Dashboard UI Engineering  
+• Component-Based Architecture  
+• Responsive UI Development  
+• REST API Integration  
 
-### Data & Analytics
+### Product & Business Analytics
+• KPI Design & Tracking  
+• Operational Dashboard Analytics  
+• Data Visualization & Reporting  
+• SQL & Data Analysis  
+• Business Metrics Interpretation  
 
-SQL • Power BI • Python • Data Visualization
+---
+
+# 🧠 Tech Stack
+
+### Frontend Development
+
+ReactJS  
+JavaScript (ES6+)  
+HTML5  
+CSS3  
+Responsive Web Design
+
+### Analytics & Data
+
+SQL  
+Power BI  
+Python (Basic)  
+Data Visualization  
+Excel
+
+### Tools
+
+Git  
+GitHub  
+VS Code  
+Figma  
 
 ---
 
@@ -34,65 +71,73 @@ SQL • Power BI • Python • Data Visualization
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pallavip4701&show_icons=true&theme=tokyonight&border_radius=12"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pallavip4701&show_icons=true&theme=tokyonight"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavip4701&layout=compact&theme=tokyonight&border_radius=12"/>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pallavip4701&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavip4701&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 📂 Featured Projects
+# 🏆 Featured Work
 
-### 🚀 Operational Analytics Dashboard
+### Operational Analytics Dashboard
 
-Modern **React dashboard** visualizing system metrics, alerts, and operational performance.
+A modern **React operational dashboard** designed to monitor system performance, assets, and alert trends through interactive data visualizations.
 
-Tech Stack  
-React • JavaScript • Chart.js • Responsive UI
+Key Features
+
+• Interactive KPI dashboards  
+• Dynamic tables with filtering  
+• Data visualization charts  
+• Modular React architecture  
+• Responsive glass-style UI
+
+Tech Stack
+
+React  
+JavaScript  
+Chart.js / Recharts  
+Tailwind CSS  
 
 ---
 
-### 📊 Mission Operations Analytics Dashboard
+### Mission Operations Analytics Dashboard
 
-Analytics dashboard monitoring **mission lifecycle KPIs**.
+Analytics project focused on monitoring **mission lifecycle performance metrics**.
 
-Tools Used  
+Tools Used
 
 SQL  
 Power BI  
 Python  
 Excel  
 
+Features
+
+• KPI tracking dashboards  
+• Data modeling and transformation  
+• Interactive reporting with drill-down analysis
+
 ---
 
 # 💼 Professional Experience
 
-### Associate Software Developer  
+Associate Software Developer  
 Dynasoft Applied System Pvt Ltd — Pune  
 
 July 2023 – Present  
 
-Working on **DGAMS – Asset Tracking & Monitoring System**
+Working on **DGAMS (Asset Tracking & Monitoring System)**.
 
 Key Contributions
 
-• Built scalable **React dashboard components**  
-• Designed **role-based monitoring dashboards**  
-• Integrated **REST APIs for real-time asset data**  
-• Created **map-based asset monitoring interfaces**  
-• Implemented **geofencing visualization tools**  
-• Optimized frontend performance for large datasets  
+• Developed scalable **React monitoring dashboards**  
+• Built reusable **dashboard UI components**  
+• Implemented **real-time asset monitoring interfaces**  
+• Designed **geofencing visualization modules**  
+• Integrated **REST APIs for operational data**  
+• Optimized UI performance for large datasets  
 
 ---
 
@@ -100,43 +145,35 @@ Key Contributions
 
 MBA – Business Analytics  
 Savitribai Phule Pune University  
-2025 | CGPA **7.60**
+2025 | CGPA: 7.60  
 
 Bachelor of Engineering – Computer Science  
 Savitribai Phule Pune University  
-2023 | CGPA **9.20**
+2023 | CGPA: 9.20  
 
 Diploma – Computer Engineering  
-Maharashtra State Board of Technical Education  
-2020 | **95.65%**
+MSBTE  
+2020 | 95.65%
 
-Secondary School Certificate (SSC)  
+SSC  
 Maharashtra State Board  
-2017 | **66%**
+2017
 
 ---
 
-# 📫 Connect With Me
+# 📫 Contact
 
 📧 Email  
 pallavip4701@gmail.com  
 
 💼 LinkedIn  
-www.linkedin.com/in/pallavi-pawar-04154323b  
+https://www.linkedin.com/in/pallavi-pawar-04154323b
 
 💻 GitHub  
 https://github.com/pallavip4701
 
 ---
 
-# 👀 Profile Views
-
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=pallavip4701&style=for-the-badge&color=blueviolet"/>
-</p>
-
----
-
-<p align="center">
-⭐ Building dashboards that transform data into insights ⭐
+⭐ Turning data into insights through dashboards & analytics ⭐
 </p>
